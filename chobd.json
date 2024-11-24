@@ -1,16 +1,19 @@
 {
   "chausettes": [
     {
-      "id": 1,
-      "name": "Chausette 1",
-      "price": 10.99,
-      "image": "/images/socks_blue.jpg"
+      "id": "1",
+    "name": "Cozy Socks",
+    "image":"/images/socks_blue.jpg",
+    "price": 12.99,
+    "description": "Soft and warm socks for winter."
     },
     {
-      "id": 2,
-      "name": "Chausette 2",
-      "price": 12.99,
-      "image": "/images/socks_green.jpg"
-    }
+    "id": "2",
+    "name": "Sporty Socks",
+    "image": "/images/socks_green.jpg",
+    "price": 9.99,
+    "description": "Comfortable socks for athletes."
+  }
   ]
 }
+
