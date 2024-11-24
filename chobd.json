@@ -1,0 +1,16 @@
+{
+  "chausettes": [
+    {
+      "id": 1,
+      "name": "Chausette 1",
+      "price": 10.99,
+      "image": "image-url-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chausette 2",
+      "price": 12.99,
+      "image": "image-url-2.jpg"
+    }
+  ]
+}
